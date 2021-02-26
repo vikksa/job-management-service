@@ -1,0 +1,9 @@
+spring:
+  application.name: job-service
+smtp:
+  hostname: smtp.sendgrid.net
+  port: 587
+  from: test@gmail.com
+  authentication:
+    username: apikey
+    password:
